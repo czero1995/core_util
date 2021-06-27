@@ -1,0 +1,20 @@
+{
+  "name": "qiankun-common",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "qiankun common lib",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czero1995/qiankun-common.git"
+  },
+  "author": "czero1995",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czero1995/qiankun-common/issues"
+  },
+  "homepage": "https://github.com/czero1995/qiankun-common#readme"
+}
